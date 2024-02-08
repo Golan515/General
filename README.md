@@ -20,6 +20,9 @@ https://github.com/youngwookim/awesome-hadoop
 Web Application Firewalls
 https://github.com/0xInfection/Awesome-WAF
 
+Certifications
+https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#security
+
 Project Management
 https://github.com/shahedbd/awesome-project-management?tab=readme-ov-file#Certification
 
