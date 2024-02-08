@@ -20,6 +20,9 @@ https://github.com/youngwookim/awesome-hadoop
 Web Application Firewalls
 https://github.com/0xInfection/Awesome-WAF
 
+Shells
+https://github.com/alebcay/awesome-shell
+
 Kafka
 https://github.com/infoslack/awesome-kafka
 
