@@ -13,3 +13,6 @@ https://github.com/Arudjreis/awesome-security-GRC
 
 Security Orchestration Automation Response (SOAR)
 https://github.com/correlatedsecurity/Awesome-SOAR
+
+Hadoop
+https://github.com/youngwookim/awesome-hadoop
