@@ -16,3 +16,9 @@ https://github.com/correlatedsecurity/Awesome-SOAR
 
 Hadoop
 https://github.com/youngwookim/awesome-hadoop
+
+Kafka
+https://github.com/infoslack/awesome-kafka
+
+Threat Detection and Hunting
+https://github.com/0x4D31/awesome-threat-detection?tab=readme-ov-file
