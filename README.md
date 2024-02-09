@@ -5,6 +5,9 @@ Awesome lists
 Regular Expressions
 https://github.com/aloisdg/awesome-regex
 
+ChatGPT
+https://github.com/awesome-chatgpt/awesome-chatgpt
+
 Industrial Control Systems (ICS)
 https://github.com/hslatman/awesome-industrial-control-system-security
 
