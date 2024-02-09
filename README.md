@@ -17,6 +17,9 @@ https://github.com/correlatedsecurity/Awesome-SOAR
 Hadoop
 https://github.com/youngwookim/awesome-hadoop
 
+Windows Security
+https://github.com/chryzsh/awesome-windows-security
+
 Web Application Firewalls
 https://github.com/0xInfection/Awesome-WAF
 
