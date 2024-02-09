@@ -5,6 +5,9 @@ Awesome lists
 Regular Expressions
 https://github.com/aloisdg/awesome-regex
 
+Bash
+https://github.com/awesome-lists/awesome-bash
+
 Application Security
 https://github.com/paragonie/awesome-appsec
 
