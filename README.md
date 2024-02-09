@@ -5,6 +5,9 @@ Awesome lists
 Regular Expressions
 https://github.com/aloisdg/awesome-regex
 
+Application Security
+https://github.com/paragonie/awesome-appsec
+
 ChatGPT
 https://github.com/awesome-chatgpt/awesome-chatgpt
 
