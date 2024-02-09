@@ -8,6 +8,9 @@ https://github.com/aloisdg/awesome-regex
 ChatGPT
 https://github.com/awesome-chatgpt/awesome-chatgpt
 
+Security Operations Center(SOC)
+https://github.com/mthcht/awesome-lists
+
 Industrial Control Systems (ICS)
 https://github.com/hslatman/awesome-industrial-control-system-security
 
