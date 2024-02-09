@@ -11,6 +11,9 @@ https://github.com/awesome-chatgpt/awesome-chatgpt
 Security Operations Center(SOC)
 https://github.com/mthcht/awesome-lists
 
+Malware Analysis
+https://github.com/rshipp/awesome-malware-analysis
+
 Industrial Control Systems (ICS)
 https://github.com/hslatman/awesome-industrial-control-system-security
 
