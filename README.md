@@ -60,3 +60,7 @@ Threat Detection and Hunting
 https://github.com/0x4D31/awesome-threat-detection?tab=readme-ov-file
 
 
+List of all port numbers and their corresponding protocol and service name
+http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
+
+
