@@ -70,3 +70,10 @@ https://www.cloudflare.com/learning/ddos/ntp-amplification-ddos-attack/
 Internal IP address Range
 10.*,192.168.*,172.16.*,172.17.*,172.18.*,172.19.*,172.20.*,172.21.*,172.22.*,172.23.*,172.24.*,172.25.*,172.26.*,172.27.*,172.28.*,172.29.*,172.30.*,172.31.*
 
+Threat Hunting using MITRE ATT&CK Framework
+Step 1 - Choose Hypothesis based apporach
+Step 2 - List the log sources available in the SIEM to Threat Hunt
+Step 3 - For each of the log source identify the datasource in MITRE https://attack.mitre.org/datasources/
+Step 4 - Example Cloud Service logs - Identitfy example AWS Cloudtrail Logs for DeleteTrail  events https://attack.mitre.org/datasources/DS0025/
+Step 5 - Check if there is any spike in the DeleteTrail events for any instance or user for that day, then for the week, for the month
+
