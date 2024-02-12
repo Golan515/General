@@ -83,3 +83,10 @@ Step 4 - Example Cloud Service logs - Identitfy example AWS Cloudtrail Logs for 
 Step 5 - Check if there is any spike in the DeleteTrail events for any instance or user for that day, then for the week, for the month
 
 
+Logs sources fields
+
+RSA SecureID
+
+https://docs.sekoia.io/xdr/features/collect/integrations/application/rsa_securid/
+
+
