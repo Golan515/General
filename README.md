@@ -89,4 +89,8 @@ RSA SecureID
 
 https://docs.sekoia.io/xdr/features/collect/integrations/application/rsa_securid/
 
+Netcat Cheatsheet
+
+https://sansorg.egnyte.com/dl/Rop1b0ElWo
+
 
