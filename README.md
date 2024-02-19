@@ -115,3 +115,6 @@ https://www.giac.org/paper/gsec/709/overview-as-400-security-fundamentals/101584
 AS/400 and iSeries: A Comprehensive Guide to Setting System Values to Common Best Practice Security
 https://sansorg.egnyte.com/dl/hPebiuXOf3
 
+Security commands - for SOC usecases
+https://www.ibm.com/docs/en/i/7.5?topic=reference-security-commands
+
