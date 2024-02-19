@@ -98,6 +98,10 @@ RSA SecureID
 
 https://docs.sekoia.io/xdr/features/collect/integrations/application/rsa_securid/
 
+Palo Alto Next-Generation Firewall
+
+https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog-for-monitoring/syslog-field-descriptions/decryption-log-fields
+
 Netcat Cheatsheet
 
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
