@@ -103,3 +103,11 @@ Netcat Cheatsheet
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
 
 
+AS400
+
+Brief overview of AS/400 Security fundamentals 
+https://www.giac.org/paper/gsec/709/overview-as-400-security-fundamentals/101584
+
+AS/400 and iSeries: A Comprehensive Guide to Setting System Values to Common Best Practice Security
+https://sansorg.egnyte.com/dl/hPebiuXOf3
+
