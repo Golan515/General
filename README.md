@@ -118,3 +118,7 @@ https://sansorg.egnyte.com/dl/hPebiuXOf3
 Security commands - for SOC usecases
 https://www.ibm.com/docs/en/i/7.5?topic=reference-security-commands
 
+Microsoft O365 Exchange log event details
+
+https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema
+
