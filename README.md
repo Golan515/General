@@ -122,3 +122,6 @@ Microsoft O365 Exchange log event details
 
 https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema
 
+BeyondTrust Log formats
+
+https://documentation.cysiv.com/articles/#!data-source-onboarding-device-configuration-reference/beyondtrust-privelege-access-reference-information-and-cim-field-mapping
