@@ -129,3 +129,7 @@ https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-ma
 BeyondTrust Log formats
 
 https://documentation.cysiv.com/articles/#!data-source-onboarding-device-configuration-reference/beyondtrust-privelege-access-reference-information-and-cim-field-mapping
+
+Forcepoint DLP Log description
+
+https://www.websense.com/content/support/library/data/v881/help/edit%20view%20filter.aspx
