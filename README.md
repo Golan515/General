@@ -2,6 +2,8 @@
 
 Awesome lists
 
+Policy as Code
+https://github.com/hysnsec/awesome-policy-as-code
 
 Insider Threat
 https://github.com/Insider-Threat/Insider-Threat
