@@ -2,6 +2,10 @@
 
 Awesome lists
 
+XDR Usecases
+https://docs.stellarcyber.ai/prod-docs/4.3.x/Using/ML/Machine-Learning-by-xdr-event-name.htm?tocpath=REFERENCE%7CDetection%20and%20Correlation%20Overview%7CAlert%20Type%20Model%20Summary%7C_____2
+
+
 Endpoint Detection Bypass Resources
 https://github.com/tkmru/awesome-edr-bypass
 
