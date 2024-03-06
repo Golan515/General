@@ -2,10 +2,6 @@
 
 Awesome lists
 
-XDR, Azure and AWS Usecases
-https://docs.stellarcyber.ai/prod-docs/4.3.x/Using/ML/Machine-Learning-by-xdr-event-name.htm?tocpath=REFERENCE%7CDetection%20and%20Correlation%20Overview%7CAlert%20Type%20Model%20Summary%7C_____2
-
-
 Endpoint Detection Bypass Resources
 https://github.com/tkmru/awesome-edr-bypass
 
@@ -149,3 +145,9 @@ https://www.websense.com/content/support/library/data/v881/help/edit%20view%20fi
 CrowdStrike Falcon Python wiki
 
 https://falconpy.io/Home.html
+
+XDR, Azure and AWS Usecases
+https://docs.stellarcyber.ai/prod-docs/4.3.x/Using/ML/Machine-Learning-by-xdr-event-name.htm?tocpath=REFERENCE%7CDetection%20and%20Correlation%20Overview%7CAlert%20Type%20Model%20Summary%7C_____2
+
+Windows Events Attack Samples
+https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
