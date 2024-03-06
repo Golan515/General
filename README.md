@@ -2,7 +2,8 @@
 
 Awesome lists
 
-
+Endpoint Detection & Response
+https://github.com/shadawck/awesome-endpoint-detection-and-response
 
 Policy as Code
 https://github.com/hysnsec/awesome-policy-as-code
