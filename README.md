@@ -2,6 +2,8 @@
 
 Awesome lists
 
+
+
 Policy as Code
 https://github.com/hysnsec/awesome-policy-as-code
 
@@ -135,3 +137,7 @@ https://documentation.cysiv.com/articles/#!data-source-onboarding-device-configu
 Forcepoint DLP Log description
 
 https://www.websense.com/content/support/library/data/v881/help/edit%20view%20filter.aspx
+
+CrowdStrike Falcon Python wiki
+
+https://falconpy.io/Home.html
