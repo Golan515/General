@@ -2,6 +2,9 @@
 
 Awesome lists
 
+Endpoint Detection Bypass Resources
+https://github.com/tkmru/awesome-edr-bypass
+
 Endpoint Detection & Response
 https://github.com/shadawck/awesome-endpoint-detection-and-response
 
