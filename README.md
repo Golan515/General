@@ -2,6 +2,9 @@
 
 Awesome lists
 
+JSON
+https://github.com/burningtree/awesome-json
+
 Endpoint Detection Bypass Resources
 https://github.com/tkmru/awesome-edr-bypass
 
