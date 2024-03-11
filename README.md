@@ -2,6 +2,9 @@
 
 Awesome lists
 
+Awesome all
+https://github.com/sindresorhus/awesome
+
 JSON
 https://github.com/burningtree/awesome-json
 
