@@ -145,6 +145,10 @@ Forcepoint DLP Log description
 
 https://www.websense.com/content/support/library/data/v881/help/edit%20view%20filter.aspx
 
+Crowdstrike Falcon Logs and values
+
+https://xsoar.pan.dev/docs/reference/integrations/crowdstrike-falcon
+
 CrowdStrike Falcon Python wiki
 
 https://falconpy.io/Home.html
