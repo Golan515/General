@@ -158,3 +158,8 @@ https://docs.stellarcyber.ai/prod-docs/4.3.x/Using/ML/Machine-Learning-by-xdr-ev
 
 Windows Events Attack Samples
 https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
+
+Cortex XSOAR Playbooks
+
+https://xsoar.pan.dev/docs/reference/playbooks/3-cx-desktop-app-supply-chain-attack
