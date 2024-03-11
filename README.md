@@ -152,6 +152,10 @@ Crowdstrike Falcon Logs and values
 
 https://xsoar.pan.dev/docs/reference/integrations/crowdstrike-falcon
 
+Crowdstrike Falcon Data Replicator
+
+https://documentation.securonix.com/bundle/securonix-on-prem-user-guide/page/content/data-dictionary/mapping-by-parser/detailed-mapping-for-crowdstrike-falcon-data-replicator-api.htm
+
 CrowdStrike Falcon Python wiki
 
 https://falconpy.io/Home.html
