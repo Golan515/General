@@ -148,6 +148,10 @@ Forcepoint DLP Log description
 
 https://www.websense.com/content/support/library/data/v881/help/edit%20view%20filter.aspx
 
+Okta Log Events
+
+https://developer.okta.com/docs/reference/api/event-types/
+
 Crowdstrike Falcon Logs and values
 
 https://xsoar.pan.dev/docs/reference/integrations/crowdstrike-falcon
