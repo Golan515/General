@@ -160,8 +160,6 @@ Advanced hunting queries for Microsoft Defender Security Center
 
 https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries/blob/main/README.md
 
-https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries/blob/main/README.md
-
 Crowdstrike Falcon Logs and values
 
 https://xsoar.pan.dev/docs/reference/integrations/crowdstrike-falcon
