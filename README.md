@@ -152,6 +152,16 @@ Okta Log Events
 
 https://developer.okta.com/docs/reference/api/event-types/
 
+Microsoft Defender Log details
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-deviceprocessevents-table?view=o365-worldwide
+
+Advanced hunting queries for Microsoft Defender Security Center
+
+https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries/blob/main/README.md
+
+https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries/blob/main/README.md
+
 Crowdstrike Falcon Logs and values
 
 https://xsoar.pan.dev/docs/reference/integrations/crowdstrike-falcon
