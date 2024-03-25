@@ -188,3 +188,8 @@ https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
 Cortex XSOAR Playbooks
 
 https://xsoar.pan.dev/docs/reference/playbooks/3-cx-desktop-app-supply-chain-attack
+
+
+Sigma rules
+
+https://github.com/SigmaHQ/sigma/tree/master
