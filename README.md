@@ -1,5 +1,6 @@
 # General
 
+
 Awesome lists
 
 Awesome all
@@ -124,6 +125,11 @@ Netcat Cheatsheet
 
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
 
+SIEMs
+
+translates (among others) Sigma rules to the search language from a variety of platforms like Splunk Search Processing Language
+
+https://uncoder.io/
 
 AS400
 
