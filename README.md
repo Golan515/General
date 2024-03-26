@@ -158,6 +158,8 @@ Okta Log Events
 
 https://developer.okta.com/docs/reference/api/event-types/
 
+https://help.okta.com/en-us/content/topics/security/behavior-detection/logs-behavior-detection.htm
+
 Microsoft Defender Log details
 
 https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-deviceprocessevents-table?view=o365-worldwide
