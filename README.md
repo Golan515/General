@@ -9,6 +9,9 @@ https://github.com/sindresorhus/awesome
 JSON
 https://github.com/burningtree/awesome-json
 
+Symbolic Execution
+https://github.com/ksluckow/awesome-symbolic-execution
+
 Endpoint Detection Bypass Resources
 https://github.com/tkmru/awesome-edr-bypass
 
