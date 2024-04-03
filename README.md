@@ -151,6 +151,10 @@ Microsoft O365 Exchange log event details
 
 https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema
 
+Microsoft AzureAD Sign-in log fields with values
+
+https://learn.microsoft.com/en-us/graph/api/resources/signin?view=graph-rest-1.0
+
 Multiple log sources documentation references
 
 https://docs.panther.com/data-onboarding/supported-logs/ciscoumbrella
