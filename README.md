@@ -3,6 +3,8 @@
 
 Awesome lists
 
+
+
 Awesome all
 https://github.com/sindresorhus/awesome
 
@@ -166,6 +168,10 @@ https://help.okta.com/en-us/content/topics/security/behavior-detection/logs-beha
 Microsoft Defender Log details
 
 https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-deviceprocessevents-table?view=o365-worldwide
+
+Cisco Umbrella DNS log sample and format
+
+https://docs.umbrella.com/deployment-umbrella/docs/dns-log-formats
 
 Advanced hunting queries for Microsoft Defender Security Center
 
