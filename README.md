@@ -129,6 +129,10 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog
 Netcat Cheatsheet
 
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
+nc localhost 5514 <( echo "Line of text" )
+nc localhost 5514 < filename
+
+
 
 SIEMs
 
@@ -202,6 +206,7 @@ https://docs.stellarcyber.ai/prod-docs/4.3.x/Using/ML/Machine-Learning-by-xdr-ev
 
 Windows Events Attack Samples
 https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
 
 
 Cortex XSOAR Playbooks
