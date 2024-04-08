@@ -185,6 +185,10 @@ Cisco Umbrella DNS log sample and format
 
 https://docs.umbrella.com/deployment-umbrella/docs/dns-log-formats
 
+Cisco Umbrella Proxy log sample and format
+
+https://docs.umbrella.com/deployment-umbrella/docs/proxy-log-formats
+
 Advanced hunting queries for Microsoft Defender Security Center
 
 https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries/blob/main/README.md
