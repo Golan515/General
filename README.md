@@ -159,6 +159,10 @@ Microsoft AzureAD Sign-in log fields with values
 
 https://learn.microsoft.com/en-us/graph/api/resources/signin?view=graph-rest-1.0
 
+Microsoft AzureAD Monitor log fields with values
+
+https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-azure-monitor-sign-ins-log-schema
+
 Multiple log sources documentation references
 
 https://docs.panther.com/data-onboarding/supported-logs/ciscoumbrella
