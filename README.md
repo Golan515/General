@@ -163,6 +163,10 @@ Microsoft AzureAD Monitor log fields with values
 
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-azure-monitor-sign-ins-log-schema
 
+Fortinet Sample log and log format
+
+https://docs.fortinet.com/document/fortigate/6.2.14/cookbook/986892/sample-logs-by-log-type
+
 Multiple log sources documentation references
 
 https://docs.panther.com/data-onboarding/supported-logs/ciscoumbrella
