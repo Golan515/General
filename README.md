@@ -129,8 +129,13 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog
 Netcat Cheatsheet
 
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
+
 nc localhost 5514 <( echo "Line of text" )
 nc localhost 5514 < filename
+
+Logstash Test
+
+cat <sample log> | /usr/share/logstash/bin/logstash -f <logstash filter>.conf
 
 
 
