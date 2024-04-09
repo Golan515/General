@@ -135,7 +135,7 @@ nc localhost 5514 < filename
 
 Logstash Test
 
-cat <sample log> | /usr/share/logstash/bin/logstash -f <logstash filter>.conf
+cat samplelog | /usr/share/logstash/bin/logstash -f logstashfilter.conf
 
 to run the filter via logstash add
 
