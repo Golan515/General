@@ -137,6 +137,21 @@ Logstash Test
 
 cat <sample log> | /usr/share/logstash/bin/logstash -f <logstash filter>.conf
 
+to run the filter via logstash add
+
+input{
+    stdin {
+
+    }
+}
+before
+
+after
+output {
+    stdout {
+
+    }
+}
 
 
 SIEMs
