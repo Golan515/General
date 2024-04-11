@@ -126,6 +126,10 @@ Palo Alto Next-Generation Firewall
 
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog-for-monitoring/syslog-field-descriptions/decryption-log-fields
 
+Palo Alto Threat URL categories
+
+https://docs.paloaltonetworks.com/advanced-url-filtering/administration/url-filtering-basics/url-categories
+
 Netcat Cheatsheet
 
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
