@@ -242,6 +242,10 @@ https://docs.stellarcyber.ai/prod-docs/4.3.x/Using/ML/Machine-Learning-by-xdr-ev
 
 https://docs.datadoghq.com/security/default_rules/
 
+Azure AD usecases from Microsoft
+
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts
+
 Windows Events Attack Samples
 https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
 
