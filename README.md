@@ -195,6 +195,8 @@ Multiple log sources documentation references
 
 https://docs.panther.com/data-onboarding/supported-logs/ciscoumbrella
 
+https://www.elastic.co/guide/en/beats/filebeat/current/exported-fields-aws.html
+
 BeyondTrust Log formats
 
 https://documentation.cysiv.com/articles/#!data-source-onboarding-device-configuration-reference/beyondtrust-privelege-access-reference-information-and-cim-field-mapping
