@@ -201,6 +201,10 @@ BeyondTrust Log formats
 
 https://documentation.cysiv.com/articles/#!data-source-onboarding-device-configuration-reference/beyondtrust-privelege-access-reference-information-and-cim-field-mapping
 
+AzureAD Directory Audit Events
+
+https://github.com/toddkitta/azure-content/blob/master/articles/active-directory/active-directory-reporting-audit-events.md
+
 Forcepoint DLP Log description
 
 https://www.websense.com/content/support/library/data/v881/help/edit%20view%20filter.aspx
