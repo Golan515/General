@@ -265,3 +265,7 @@ https://xsoar.pan.dev/docs/reference/playbooks/3-cx-desktop-app-supply-chain-att
 Sigma rules
 
 https://github.com/SigmaHQ/sigma/tree/master
+
+malware test file
+
+eicar.com
