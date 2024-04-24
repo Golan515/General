@@ -187,6 +187,10 @@ Microsoft AzureAD Monitor log fields with values
 
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-azure-monitor-sign-ins-log-schema
 
+Microsoft AzureAD Directory Audit Events
+
+https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-audit-activities
+
 Fortinet Sample log and log format
 
 https://docs.fortinet.com/document/fortigate/6.2.14/cookbook/986892/sample-logs-by-log-type
