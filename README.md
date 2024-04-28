@@ -3,7 +3,9 @@
 
 Awesome lists
 
+Threat Hunting
 
+https://github.com/threat-hunting/awesome_Threat-Hunting/tree/master
 
 Awesome all
 https://github.com/sindresorhus/awesome
