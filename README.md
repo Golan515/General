@@ -92,6 +92,9 @@ https://github.com/infoslack/awesome-kafka
 Threat Detection and Hunting
 https://github.com/0x4D31/awesome-threat-detection?tab=readme-ov-file
 
+DropBox EventList
+
+https://dropbox.github.io/dropbox-sdk-java/api-docs/v3.1.x/com/dropbox/core/v2/teamlog/EventTypeArg.html
 
 List of all port numbers and their corresponding protocol and service name
 http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
