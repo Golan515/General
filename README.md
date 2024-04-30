@@ -22,6 +22,10 @@ https://github.com/tkmru/awesome-edr-bypass
 Endpoint Detection & Response
 https://github.com/shadawck/awesome-endpoint-detection-and-response
 
+Grok Regular Expressions
+
+https://github.com/hpcugent/logstash-patterns/blob/master/files/grok-patterns.json
+
 Policy as Code
 https://github.com/hysnsec/awesome-policy-as-code
 
