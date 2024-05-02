@@ -202,6 +202,10 @@ Microsoft AzureAD Monitor log fields with values
 
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-azure-monitor-sign-ins-log-schema
 
+Google Drive Audit Activity Events
+
+https://developers.google.com/admin-sdk/reports/v1/appendix/activity/drive
+
 Microsoft AzureAD Directory Audit Events
 
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-audit-activities
