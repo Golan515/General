@@ -98,6 +98,10 @@ https://dropbox.github.io/dropbox-sdk-java/api-docs/v3.1.x/com/dropbox/core/v2/t
 
 https://www.dropbox.com/developers/reference/events-migration-guide
 
+Box events
+
+https://opensource.box.com/box-java-sdk/javadoc/com/box/sdk/BoxEvent.EventType.html
+
 List of all port numbers and their corresponding protocol and service name
 http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
 
