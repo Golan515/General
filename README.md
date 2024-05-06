@@ -26,6 +26,7 @@ Grok Regular Expressions
 
 https://github.com/hpcugent/logstash-patterns/blob/master/files/grok-patterns.json
 
+
 Policy as Code
 https://github.com/hysnsec/awesome-policy-as-code
 
@@ -140,6 +141,10 @@ Logs sources fields
 RSA SecureID
 
 https://docs.sekoia.io/xdr/features/collect/integrations/application/rsa_securid/
+
+Logstash parsing for Cisco ASA
+
+https://gist.github.com/mrlesmithjr/791dc72d3c92ac21342f
 
 Palo Alto Next-Generation Firewall
 
