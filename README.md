@@ -224,6 +224,14 @@ https://docs.panther.com/data-onboarding/supported-logs/ciscoumbrella
 
 https://www.elastic.co/guide/en/beats/filebeat/current/exported-fields-aws.html
 
+Cisco ASA VPN event logs
+
+https://www.cisco.com/c/en/us/td/docs/security/asa/syslog/b_syslog/syslogs1.html
+
+Cisco Secure Remote Access VPN Logs
+
+https://docs.sse.cisco.com/sse-user-guide/docs/remote-access-vpn-log-formats
+
 BeyondTrust Log formats
 
 https://documentation.cysiv.com/articles/#!data-source-onboarding-device-configuration-reference/beyondtrust-privelege-access-reference-information-and-cim-field-mapping
