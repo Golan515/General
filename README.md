@@ -149,6 +149,10 @@ Palo Alto Threat URL categories
 
 https://docs.paloaltonetworks.com/advanced-url-filtering/administration/url-filtering-basics/url-categories
 
+Grok patterns for firewall and PANOS
+
+https://github.com/haginara/grok-patterns/tree/master
+
 Netcat Cheatsheet
 
 https://sansorg.egnyte.com/dl/Rop1b0ElWo
