@@ -313,3 +313,8 @@ https://github.com/SigmaHQ/sigma/tree/master
 malware test file
 
 eicar.com
+
+
+Zscalar DLP log fields
+
+https://help.zscaler.com/zia/nss-feed-output-format-web-logs
