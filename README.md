@@ -319,7 +319,7 @@ Cyberark CEF log format fields
 
 https://docs.cyberark.com/pam-self-hosted/Latest/en/Content/PTA/CEF-Based-Format-Definition.htm
 
-Cyberark fields
+Cyberark fields and usecases
 
 https://docs.cyberark.com/pam-self-hosted/Latest/en/Content/PASIMP/Integrating-with-SIEM-Applications.htm
 
