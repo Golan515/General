@@ -315,6 +315,11 @@ malware test file
 eicar.com
 
 
+Cyberark CEF log format fields
+
+https://docs.cyberark.com/pam-self-hosted/Latest/en/Content/PTA/CEF-Based-Format-Definition.htm
+
+
 Zscalar DLP log fields
 
 https://help.zscaler.com/zia/nss-feed-output-format-web-logs
