@@ -327,3 +327,8 @@ https://docs.cyberark.com/pam-self-hosted/Latest/en/Content/PASIMP/Integrating-w
 Zscalar DLP log fields
 
 https://help.zscaler.com/zia/nss-feed-output-format-web-logs
+
+
+DLP Digital Guardian log format
+
+https://docs.devo.com/space/latest/349470828/dlp.digitalguardian
