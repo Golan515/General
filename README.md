@@ -333,6 +333,10 @@ DLP Digital Guardian log format
 
 https://docs.devo.com/space/latest/349470828/dlp.digitalguardian
 
+Cyberark different events
+
+https://docs.cyberark.com/pam-self-hosted/Latest/en/Content/PASREF/Vault%20Audit%20Action%20Codes.htm
+
 Office365 DLP
 
 https://documentation.securonix.com/bundle/securonix-cloud-user-guide/page/content/data-dictionary/mapping-by-parser/detailed-mapping-for-office365-dlp.htm
