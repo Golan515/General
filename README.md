@@ -341,3 +341,8 @@ Office365 DLP
 
 https://documentation.securonix.com/bundle/securonix-cloud-user-guide/page/content/data-dictionary/mapping-by-parser/detailed-mapping-for-office365-dlp.htm
 
+
+Windows Security Usecases - Atomic red team
+
+https://github.com/redcanaryco/atomic-red-team/tree/master/atomics
+
