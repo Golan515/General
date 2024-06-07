@@ -346,3 +346,7 @@ Windows Security Usecases - Atomic red team
 
 https://github.com/redcanaryco/atomic-red-team/tree/master/atomics
 
+Cloudflare log format fields explanations
+
+https://developers.cloudflare.com/logs/reference/log-fields/zone/http_requests/#edgeendtimestamp
+
