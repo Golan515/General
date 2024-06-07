@@ -350,3 +350,4 @@ Cloudflare log format fields explanations
 
 https://developers.cloudflare.com/logs/reference/log-fields/zone/http_requests/#edgeendtimestamp
 
+https://docs.panther.com/data-onboarding/supported-logs/cloudflare
