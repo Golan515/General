@@ -351,3 +351,12 @@ Cloudflare log format fields explanations
 https://developers.cloudflare.com/logs/reference/log-fields/zone/http_requests/#edgeendtimestamp
 
 https://docs.panther.com/data-onboarding/supported-logs/cloudflare
+
+
+VPC Flow logs headers
+
+https://panther.com/cyber-explained/aws-security-logging-vpc-flow-logs/
+
+VPC Flow logs Samples
+
+https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-records-examples.html
