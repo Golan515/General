@@ -360,3 +360,7 @@ https://panther.com/cyber-explained/aws-security-logging-vpc-flow-logs/
 VPC Flow logs Samples
 
 https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-records-examples.html
+
+Endpoint Detection & Response (EDR) Splunk usecases
+
+https://lantern.splunk.com/Data_Descriptors/Endpoint_detection_and_response_(EDR)_data
