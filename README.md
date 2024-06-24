@@ -368,3 +368,7 @@ https://lantern.splunk.com/Data_Descriptors/Endpoint_detection_and_response_(EDR
 GuardDuty retired findings
 
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-retired.html#exfiltration-s3-objectreadunusual
+
+Azure Monitor log field descriptions
+
+https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-schema
