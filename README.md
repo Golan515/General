@@ -372,3 +372,7 @@ https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-retired.
 Azure Monitor log field descriptions
 
 https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-schema
+
+Prisma Cloud log fields
+
+https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/view-audit-logs
