@@ -376,3 +376,8 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-sc
 Prisma Cloud log fields
 
 https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/view-audit-logs
+
+
+Google Workspace Events list
+
+https://cloud.google.com/chronicle/docs/ingestion/default-parsers/collect-workspace-logs
